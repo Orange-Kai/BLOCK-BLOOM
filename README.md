@@ -1,2 +1,2 @@
 # BLOCK-BLOOM
-A project console game
+A project console tetris game
